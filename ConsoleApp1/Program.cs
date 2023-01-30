@@ -60,43 +60,89 @@ namespace ConsoleApp1
                 Console.WriteLine("6- Mover de cola a pila");
                 Console.WriteLine("7- Salir");
                 opcion2 = Convert.ToInt32(Console.ReadLine());
-                var valueToMove = 0;
+                int? valueToMove = 0;
                 switch (opcion2)
                 {
                     case 1:
                         valueToMove = orderedList.Remove();
-                        stack.Add(valueToMove);
-                        PrintList();
+                        if (valueToMove != null)
+                        {
+                            stack.Add(valueToMove ?? 0);
+                            PrintList();
+                        }
+                        else
+                        {
+                            Console.WriteLine("No hay elementos en la lista ordenada");
+                        }
+                        
                         break;
 
                     case 2:
                         valueToMove = orderedList.Remove();
-                        queue.Add(valueToMove);
-                        PrintList();
+                        if (valueToMove != null)
+                        {
+                            queue.Add(valueToMove ?? 0);
+                            PrintList();
+                        }
+                        else
+                        {
+                            Console.WriteLine("No hay elementos en la lista ordenada");
+                        }
                         break;
 
                     case 3:
                         valueToMove = stack.Remove();
-                        queue.Add(valueToMove);
-                        PrintList();
+                        if (valueToMove != null)
+                        {
+                            queue.Add(valueToMove ?? 0);
+                            PrintList();
+                        }
+                        else
+                        {
+                            Console.WriteLine("No hay elementos en la pila");
+                        }
+                        
                         break;
 
                     case 4:
                         valueToMove = stack.Remove();
-                        orderedList.Add(valueToMove);
-                        PrintList();
+                        if (valueToMove != null)
+                        {
+                            orderedList.Add(valueToMove ?? 0);
+                            PrintList();
+                        }
+                        else
+                        {
+                            Console.WriteLine("No hay elementos en la pila");
+                        }
+                        
                         break;
 
                     case 5:
                         valueToMove = queue.Remove();
-                        orderedList.Add(valueToMove);
-                        PrintList();
+                        if (valueToMove != null)
+                        {
+                            orderedList.Add(valueToMove ?? 0);
+                            PrintList();
+                        }
+                        else
+                        {
+                            Console.WriteLine("No hay elementos en la cola");
+                        }
                         break;
 
                     case 6:
                         valueToMove = queue.Remove();
-                        stack.Add(valueToMove);
-                        PrintList();
+                        if (valueToMove != null)
+                        {
+                            stack.Add(valueToMove ?? 0);
+                            PrintList();
+                        }
+                        else
+                        {
+                            Console.WriteLine("No hay elementos en la cola");
+                        }
+                        
                         break;
 
                     case 7:

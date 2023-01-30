@@ -8,8 +8,12 @@
 
         public abstract void Add(int value);
 
-        public int Remove()
+        public int? Remove()
         {
+            if (Head == null)
+            {
+                return null;
+            }
             var value = Head.Value;
             Head = Head.NextElement;
             return value;
