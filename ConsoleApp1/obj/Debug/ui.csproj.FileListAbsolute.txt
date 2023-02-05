@@ -1,0 +1,2 @@
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

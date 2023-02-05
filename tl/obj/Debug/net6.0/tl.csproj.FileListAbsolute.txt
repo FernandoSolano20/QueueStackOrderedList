@@ -1,0 +1,15 @@
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\bin\Debug\net6.0\tl.deps.json
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\bin\Debug\net6.0\tl.dll
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\bin\Debug\net6.0\tl.pdb
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\bin\Debug\net6.0\bl.dll
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\bin\Debug\net6.0\bl.pdb
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.csproj.AssemblyReference.cache
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.AssemblyInfoInputs.cache
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.AssemblyInfo.cs
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.csproj.CoreCompileInputs.cache
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.csproj.CopyComplete
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.dll
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\refint\tl.dll
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\tl.pdb
+C:\Users\fersolano\Documents\Universidad\Estrucutrua de datos 2\Tarea 1\Tarea1\tl\obj\Debug\net6.0\ref\tl.dll

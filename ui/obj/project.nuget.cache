@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Okds4rW88UVfJNRxbv9Yl+Amr7JVKjpxrE2Kl8gGK7QCAkB/sytKhd2B4ErwihNQY4NY1fGNZBc6ima3Y6VYnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fersolano\\Documents\\Universidad\\Estrucutrua de datos 2\\Tarea 1\\Tarea1\\ui\\ui.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget-repo.newhomesource.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "tl/1.0.0": {
+        "dependencies": {
+          "bl": "1.0.0"
+        },
+        "runtime": {
+          "tl.dll": {}
+        }
+      },
+      "bl/1.0.0": {
+        "runtime": {
+          "bl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
